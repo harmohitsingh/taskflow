@@ -1,0 +1,11 @@
+# Personal task data
+tasks.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Streamlit
+.streamlit/secrets.toml
