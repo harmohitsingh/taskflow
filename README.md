@@ -23,9 +23,6 @@ A clean, dark-themed personal task tracker built with **Python** and **Streamlit
 
 ---
 
-## 🖥️ Screenshots
-
-> Add a screenshot here after running the app locally.
 
 ---
 
