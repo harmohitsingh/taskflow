@@ -73,7 +73,7 @@ taskflow/
 ## 👤 Author
 
 **Harmohit Singh**
-- GitHub: [@HarmohitSingh2005](https://github.com/HarmohitSingh2005)
+- GitHub: [@harmohitsingh](https://github.com/harmohit singh)
 
 ---
 
